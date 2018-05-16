@@ -4,7 +4,7 @@ import React from 'react';
 export default function MemeHeading(props) {
 
   return (
-    'test'
+    <h1>Don't Let Your Memes Be Dreams</h1>
   );
 
 }
